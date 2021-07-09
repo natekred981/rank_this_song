@@ -1,0 +1,65 @@
+.round{
+  text-align: center;
+    font-size: 1.5vw;
+    width: 100vw;
+  }
+
+.round1 {
+    position: absolute;
+    top: 60vh;
+    
+  }
+  .round2 {
+    position: absolute;
+    top: 120vh;
+  }
+
+  .round3 {
+      position: absolute;
+      left: 0vw; 
+      top: 160vh;
+  }
+  .round4{
+    position: absolute;
+    top: 220vh;
+    left: 45vw;
+    width: 10%;
+  }
+
+ .match1 {
+   position: absolute;
+   left: 9vw;
+   width: 10%;
+ }
+
+ .match2 {
+  position: absolute;
+  left: 33vw;
+  width: 10%;
+}
+.match3 {
+  position: absolute;
+  left: 57vw;
+  width: 10%;
+}
+.match4 {
+  position: absolute;
+  left: 78vw;
+  width: 10%;
+}
+.match5 {
+  position: absolute;
+  left: 21vw;
+  width: 10%;
+}
+.match6 {
+  position: absolute;
+  left: 65vw;
+  width: 10%;
+}
+
+
+
+  
+
+  
